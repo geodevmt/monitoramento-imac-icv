@@ -1,9 +1,3 @@
-"""
-Web App: Portal de Dados Geoespaciais do IMAC (Production Grade)
-Autor: Especialista Sênior em Geotecnologias (ICV)
-Versão: 2.1 (Com Cache, Logging e Segurança de IO)
-"""
-
 import streamlit as st
 import requests
 from bs4 import BeautifulSoup
